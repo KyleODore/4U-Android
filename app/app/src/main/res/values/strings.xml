@@ -10,4 +10,10 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="action_register_short">Register</string>
+    <string name="welcome4UMessage">Welcome to 4U</string>
+    <string name="createAccountMessage">Create an Account</string>
+    <string name="studentNumber">Student Number</string>
+    <string name="username">Create a Username</string>
+    <string name="reenterPassword">Re-enter Password</string>
+    <string name="schoolEmail">School Email</string>
 </resources>
