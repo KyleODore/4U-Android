@@ -37,8 +37,11 @@ public class LoginActivity extends AppCompatActivity {
         loginViewModel = ViewModelProviders.of(this, new LoginViewModelFactory())
                 .get(LoginViewModel.class);
 
+        final EditText schoolEmailText = findViewById(R.id.schoolEmail);
+        final EditText studentNumberText = findViewById(R.id.studentNumber);
         final EditText usernameEditText = findViewById(R.id.username);
         final EditText passwordEditText = findViewById(R.id.password);
+        final EditText reenterPasswordEditText = findViewById(R.id.reenterPassword);
         final Button loginButton = findViewById(R.id.login);
         final ProgressBar loadingProgressBar = findViewById(R.id.loading);
 

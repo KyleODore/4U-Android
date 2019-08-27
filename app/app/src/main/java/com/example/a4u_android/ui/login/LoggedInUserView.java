@@ -5,6 +5,8 @@ package com.example.a4u_android.ui.login;
  */
 class LoggedInUserView {
     private String displayName;
+    private String email;
+    private String university;
     //... other data fields that may be accessible to the UI
 
     LoggedInUserView(String displayName) {
