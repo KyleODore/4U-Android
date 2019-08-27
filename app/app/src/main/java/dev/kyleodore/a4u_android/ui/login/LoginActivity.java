@@ -1,4 +1,4 @@
-package com.example.a4u_android.ui.login;
+package dev.kyleodore.a4u_android.ui.login;
 
 import android.app.Activity;
 
@@ -23,8 +23,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.a4u_android.R;
-import com.example.a4u_android.ui.login.LoginViewModel;
-import com.example.a4u_android.ui.login.LoginViewModelFactory;
 
 public class LoginActivity extends AppCompatActivity {
 

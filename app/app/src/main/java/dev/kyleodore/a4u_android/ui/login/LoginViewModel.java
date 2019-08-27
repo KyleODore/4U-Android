@@ -1,4 +1,4 @@
-package com.example.a4u_android.ui.login;
+package dev.kyleodore.a4u_android.ui.login;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
@@ -6,9 +6,9 @@ import androidx.lifecycle.ViewModel;
 
 import android.util.Patterns;
 
-import com.example.a4u_android.data.LoginRepository;
-import com.example.a4u_android.data.Result;
-import com.example.a4u_android.data.model.LoggedInUser;
+import dev.kyleodore.a4u_android.data.LoginRepository;
+import dev.kyleodore.a4u_android.data.Result;
+import dev.kyleodore.a4u_android.data.model.LoggedInUser;
 import com.example.a4u_android.R;
 
 public class LoginViewModel extends ViewModel {

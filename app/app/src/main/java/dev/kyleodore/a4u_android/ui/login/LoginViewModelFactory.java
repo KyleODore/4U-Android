@@ -1,11 +1,11 @@
-package com.example.a4u_android.ui.login;
+package dev.kyleodore.a4u_android.ui.login;
 
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.annotation.NonNull;
 
-import com.example.a4u_android.data.LoginDataSource;
-import com.example.a4u_android.data.LoginRepository;
+import dev.kyleodore.a4u_android.data.LoginDataSource;
+import dev.kyleodore.a4u_android.data.LoginRepository;
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.

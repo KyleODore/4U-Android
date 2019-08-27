@@ -1,4 +1,4 @@
-package com.example.a4u_android.ui.login;
+package dev.kyleodore.a4u_android.ui.login;
 
 import androidx.annotation.Nullable;
 

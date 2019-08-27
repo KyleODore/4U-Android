@@ -1,4 +1,4 @@
-package com.example.a4u_android.data;
+package dev.kyleodore.a4u_android.data;
 
 /**
  * A generic class that holds a result success w/ data or an error exception.

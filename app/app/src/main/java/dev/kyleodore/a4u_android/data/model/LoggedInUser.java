@@ -1,4 +1,4 @@
-package com.example.a4u_android.data.model;
+package dev.kyleodore.a4u_android.data.model;
 
 /**
  * Data class that captures user information for logged in users retrieved from LoginRepository

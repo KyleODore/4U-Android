@@ -1,4 +1,4 @@
-package com.example.a4u_android;
+package dev.kyleodore.a4u_android;
 
 import org.junit.Test;
 

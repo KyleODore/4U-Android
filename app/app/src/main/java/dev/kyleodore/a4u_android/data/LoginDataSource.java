@@ -1,6 +1,6 @@
-package com.example.a4u_android.data;
+package dev.kyleodore.a4u_android.data;
 
-import com.example.a4u_android.data.model.LoggedInUser;
+import dev.kyleodore.a4u_android.data.model.LoggedInUser;
 
 import java.io.IOException;
 
